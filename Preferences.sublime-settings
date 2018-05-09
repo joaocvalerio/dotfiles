@@ -1,8 +1,6 @@
 {
-	"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
 	"ignored_packages":
 	[
 		"Vintage"
-	],
-	"theme": "Monokai.sublime-theme"
+	]
 }
